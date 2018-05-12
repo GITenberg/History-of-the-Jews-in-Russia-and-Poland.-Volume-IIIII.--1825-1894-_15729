@@ -1,0 +1,47 @@
+_repo: History-of-the-Jews-in-Russia-and-Poland.-Volume-IIIII.--1825-1894-_15729
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Friedlaender, Israel
+    alias: Friedlander, Israel
+    birthdate: 1876
+    deathdate: 1920
+    gutenberg_agent_id: '41231'
+    url: http://www.gutenberg.org/2009/agents/41231
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Friedlander
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dubnow, Simon
+    aliases:
+    - Dubnov, Semen Markovich
+    - Dubnov, Semion Markovich
+    - Dubnow, Schimon
+    - Dubnow, S. M.
+    - Дубнов, Семен Маркович
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '6230'
+    url: http://www.gutenberg.org/2009/agents/6230
+    wikipedia: http://en.wikipedia.org/wiki/Simon_Dubnow
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2005-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Russia -- History'
+- !lcsh 'Jews -- Russia -- History'
+- !lcsh 'Poland -- History'
+- !lcsh 'Jews -- Poland -- History'
+title: "History of the Jews in Russia and Poland, Volume 2 [of 3]\r\nFrom the Death\
+  \ of Alexander I until the Death of Alexander III (1825-1894)"
+url: http://www.gutenberg.org/ebooks/15729
